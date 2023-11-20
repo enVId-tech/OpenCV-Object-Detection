@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\theli\Documents\Visual-Studio-Projects\OPENCV\ObjectDetection\cube-recog-opencv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\theli\Documents\Visual-Studio-Projects\OPENCV\ObjectDetection\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B455288A-445A-3B89-BF86-BDF5DBAAF89B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

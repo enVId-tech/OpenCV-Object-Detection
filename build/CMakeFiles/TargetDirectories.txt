@@ -1,0 +1,9 @@
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/Experimental.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/Nightly.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/Continuous.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/ObjectDetection.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/PACKAGE.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/CMakeFiles/ZERO_CHECK.dir

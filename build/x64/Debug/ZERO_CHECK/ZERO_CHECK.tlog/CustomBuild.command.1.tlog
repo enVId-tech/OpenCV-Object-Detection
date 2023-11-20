@@ -1,0 +1,10 @@
+^C:\USERS\THELI\DOCUMENTS\VISUAL-STUDIO-PROJECTS\OPENCV\OBJECTDETECTION\BUILD\CMAKEFILES\B4EDE7071B94B76169FE1001BEAA13A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection -BC:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/build/ObjectDetection.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
