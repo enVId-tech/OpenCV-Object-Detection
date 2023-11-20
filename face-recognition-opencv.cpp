@@ -3,7 +3,7 @@
 int main() {
     // Load the Haar cascade for face detection
     cv::CascadeClassifier faceCascade;
-    faceCascade.load("C:/Users/theli/Documents/Visual-Studio-Projects/OPENCV/ObjectDetection/haarcascade_frontalface_default.xml");
+    faceCascade.load("haarcascade_frontalface_default.xml");
 
     // Open the video capture device
     cv::VideoCapture cap(0);
