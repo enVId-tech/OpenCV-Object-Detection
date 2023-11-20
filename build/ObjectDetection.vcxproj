@@ -317,7 +317,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\theli\Documents\Visual-Studio-Projects\OPENCV\ObjectDetection\ball-recog-opencv.cpp" />
+    <ClCompile Include="C:\Users\theli\Documents\Visual-Studio-Projects\OPENCV\ObjectDetection\ball-rec.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\theli\Documents\Visual-Studio-Projects\OPENCV\ObjectDetection\build\ZERO_CHECK.vcxproj">

@@ -12,8 +12,9 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 
 # Decide which executable files you want here.
 # add_executable(ObjectDetection face-recognition-opencv.cpp)
-add_executable(ObjectDetection ball-recog-opencv.cpp)
+# add_executable(ObjectDetection ball-recog-opencv.cpp)
 # add_executable (ObjectDetection cube-recog-opencv.cpp)
+add_executable (ObjectDetection ball-rec.cpp)
 
 target_link_libraries(ObjectDetection PRIVATE ${OpenCV_LIBS})
 
